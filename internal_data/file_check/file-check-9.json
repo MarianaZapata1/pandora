@@ -1,0 +1,30 @@
+{
+    "missing": {
+        "XF": [
+            "js/xf/captcha.min.js",
+            "js/xf/message.min.js"
+        ]
+    },
+    "inconsistent": {
+        "XF": [
+            "src/XF/Authentication/AbstractAuth.php",
+            "src/XF/Authentication/Core.php",
+            "src/XF/Authentication/Core12.php",
+            "src/XF/Authentication/Discourse.php",
+            "src/XF/Authentication/IpsForums3x.php",
+            "src/XF/Authentication/IpsForums4x.php",
+            "src/XF/Authentication/MyBb.php",
+            "src/XF/Authentication/NoPassword.php",
+            "src/XF/Authentication/PasswordHash.php",
+            "src/XF/Authentication/PhpBb3.php",
+            "src/XF/Authentication/SMF.php",
+            "src/XF/Authentication/vBulletin.php",
+            "src/XF/Authentication/vBulletin5.php",
+            "src/XF/Service/AddOn/HashGenerator.php",
+            "src/XF/Util/Hash.php"
+        ]
+    },
+    "total_missing": 2,
+    "total_inconsistent": 15,
+    "total_checked": 4877
+}

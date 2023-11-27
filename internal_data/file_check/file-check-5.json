@@ -1,0 +1,18 @@
+{
+    "missing": {
+        "XF": [
+            "js/xf/captcha.min.js",
+            "js/xf/message.min.js"
+        ]
+    },
+    "inconsistent": {
+        "XF": [
+            "src/XF/Authentication/AbstractAuth.php",
+            "src/XF/Service/AddOn/HashGenerator.php",
+            "src/XF/Util/Hash.php"
+        ]
+    },
+    "total_missing": 2,
+    "total_inconsistent": 3,
+    "total_checked": 4877
+}
